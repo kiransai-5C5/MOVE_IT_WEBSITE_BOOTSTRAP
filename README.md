@@ -23,5 +23,4 @@ A responsive website created for a fictional **moving company** named "Move It",
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/move_it.git
+   site is live at https://kiransai-5c5.github.io/MOVE_IT_WEBSITE_BOOTSTRAP/
