@@ -19,7 +19,6 @@ A responsive website created for a fictional **moving company** named "Move It",
 - HTML5
 - CSS3
 - [Bootstrap 5](https://getbootstrap.com/)
-- JavaScript (Bootstrap's JS Bundle)
 
 ## How to Run
 1. Clone the repository:
